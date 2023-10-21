@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "index": 0,
+            "title": "abc bot",
+            "description": "beep boop",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg"
+        },
+        {
+            "index": 1,
+            "title": "def bot",
+            "description": "beep beep",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg"
+        },
+        {
+            "index": 2,
+            "title": "atk bot",
+            "description": "beep boop beep",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/1/16/SteveHarveyHWOFMay2013_%28cropped%29.jpg"
+        }
+    ]
+}
